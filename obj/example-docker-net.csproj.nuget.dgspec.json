@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\project\\create-dockerfile-simpleapp\\example-docker-go\\example-docker-net\\example-docker-net.csproj": {}
+  },
+  "projects": {
+    "D:\\project\\create-dockerfile-simpleapp\\example-docker-go\\example-docker-net\\example-docker-net.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\project\\create-dockerfile-simpleapp\\example-docker-go\\example-docker-net\\example-docker-net.csproj",
+        "projectName": "example-docker-net",
+        "projectPath": "D:\\project\\create-dockerfile-simpleapp\\example-docker-go\\example-docker-net\\example-docker-net.csproj",
+        "packagesPath": "C:\\Users\\dv3pl\\.nuget\\packages\\",
+        "outputPath": "D:\\project\\create-dockerfile-simpleapp\\example-docker-go\\example-docker-net\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dv3pl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
